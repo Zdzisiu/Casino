@@ -1,6 +1,6 @@
 charset,UTF-8
 
-name,Minumum YAYA Template
+name,Simplicity Template
 type,ghost
 
 shiori,yaya.dll
@@ -9,7 +9,9 @@ craftman,
 craftmanw,
 craftmanurl,
 
-sakura.name,
-kero.name,
+sakura.name,Simplicity
+kero.name,Template
+
+icon,icon.ico
 
 sstp.allowunspecifiedsend,0
